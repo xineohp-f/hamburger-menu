@@ -1,3 +1,6 @@
 # Hamburger Menu
-Hamburger Menu Animation Using only CSS.
+Animated Hamburger Menu Slider using only CSS.
+
+###
+Demo: http://phnx.esy.es/h_menu/
 
